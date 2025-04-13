@@ -1,0 +1,62 @@
+---
+title: "Ay'ın Neden Aynı Yüzünü Görürüz?"
+format: html
+---
+
+Geceleri gökyüzüne baktığımızda Ay’ın hep aynı yüzünü görürüz. Peki hiç merak ettiniz mi, neden diğer tarafını göremiyoruz? Bu durumun arkasında, Ay’ın Dünya etrafındaki hareketi ve kendi ekseni etrafındaki dönüşü arasındaki mükemmel bir senkronizasyon yatar. Buna "eş zamanlı dönüş" (tidal locking) denir.
+
+![Ay](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/1024px-FullMoon2010.jpg)
+
+### Gök Cisimlerinin Dansı: Dönme ve Yörünge Hareketi
+
+Evrendeki tüm gök cisimleri hareket halindedir. Gezegenler kendi eksenleri etrafında dönerken, aynı zamanda yıldızlarının (örneğin Güneş’in) etrafında dolanır. Örneğin:
+
+-Dünya, kendi ekseni etrafında 24 saatte (1 gün) döner.
+
+-Güneş etrafındaki turunu ise 365 günde (1 yıl) tamamlar.
+
+Ay da benzer şekilde hem Dünya etrafında döner, hem de kendi ekseni etrafında dönüş yapar. Ancak onu özel kılan şey, bu iki hareketin süresinin neredeyse aynı olmasıdır.
+
+### Ay’ın Dünya ile Senkronize Hareketi
+
+Ay, Dünya etrafındaki bir turunu 27,3 günde tamamlar. İlginç olan, kendi ekseni etrafında dönüşünün de aynı sürede gerçekleşmesidir. Yani:
+
+Ay, Dünya’nın etrafında dönerken aynı zamanda kendi ekseninde de döner.
+
+Bu iki hareketin süresi eşit olduğu için, Ay’ın hep aynı yüzü Dünya’ya bakar.
+
+Bu durumu, bir dansçının partnerinin etrafında dönerken sürekli ona baktığını hayal ederek anlayabilirsiniz. Dansçı hem dönüyor hem de ilerliyordur, ama hep aynı yüzü partnerine dönüktür.
+
+### Peki Neden Böyle?
+
+Bu senkronizasyonun sebebi, gelgit kuvvetleridir (tidal forces). Dünya’nın kütleçekimi, Ay’ın şeklini hafifçe bozarak onun dönüşünü yavaşlatmıştır. Milyarlarca yıl önce Ay daha hızlı dönüyordu, ancak zamanla Dünya’nın çekim etkisiyle kendi ekseni etrafındaki dönüş hızı, yörünge hızına eşitlendi.
+
+Bu olay sadece Ay’da değil, birçok uydu ve gezegende görülür. Örneğin:
+
+Plüton ve Charon birbirlerine hep aynı yüzlerini gösterir.
+
+Jüpiter’in uydularından Io ve Europa da benzer bir kilitlenme yaşar.
+
+### Ay’ın Karanlık Yüzü: Gizemli mi?
+
+Ay’ın Dünya’dan görünmeyen tarafına yanlışlıkla "karanlık yüz" denir, ancak bu bölge aslında Güneş alır. Sadece Dünya’dan göremediğimiz için gizemli gelir. Çin’in Chang’e-4 uzay aracı, 2019’da bu bölgeye iniş yaparak ilk kez detaylı veriler topladı.
+
+### Evrendeki Diğer Senkronize Dönüşler
+
+Eş zamanlı dönüş, evrende oldukça yaygındır:
+
+-Güneş Sistemi’ndeki uyduların çoğu (Phobos, Deimos, Titan) ana gezegenlerine kilitlenmiştir.
+
+-Ötegezegenler ve yıldızları arasında da bu durum gözlemlenir. Örneğin, Merkür Güneş’e o kadar yakındır ki, 2 tur attığında kendi ekseninde tam 3 kez döner (3:2 rezonans).
+
+### Sonuç: Ay’ın Bize Gösterdiği Yüz
+
+Ay’ın hep aynı yüzünü görmemizin nedeni, evrenin fizik kurallarının mükemmel bir uyumudur. Gelgit kilitlenmesi sayesinde, Dünya ile Ay arasında milyarlarca yıldır süren bir dans devam eder. Bir sonraki dolunayı gördüğünüzde, bu muhteşem dengeyi düşünün!
+
+### Kaynaklar
+
+https://spaceplace.nasa.gov/tidal-locking/en/
+
+https://www.esa.int/Science_Exploration/Space_Science/The_dark_side_of_the_Moon
+
+https://www.scientificamerican.com/article/how-the-moon-got-its-synchronous-rotation/

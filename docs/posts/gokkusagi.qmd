@@ -1,0 +1,43 @@
+---
+title: "Gökkuşağı Nasıl Oluşur?"
+date: "2013-01-31"
+format: html
+---
+
+Gökkuşağı, doğanın bize sunduğu en büyüleyici görsel şölenlerden biridir. Yağmurdan sonra gökyüzünde beliren bu renk cümbüşü, aslında ışığın fiziksel özellikleri sayesinde ortaya çıkar. Peki gökkuşağı tam olarak nasıl oluşur? Cevap, ışığın kırılmasında yatıyor.
+
+![Gökkuşağı](https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg)
+
+### Işığın Kırılması: Gökkuşağının Sırrı
+
+Gökkuşağının oluşumunu anlamak için önce ışığın su damlalarıyla nasıl etkileşime girdiğini bilmek gerekir. Işık, farklı ortamlardan geçerken hızı değişir ve bu da onun "kırılmasına" neden olur. Örneğin, ışık havadan suya geçtiğinde yavaşlar ve yönü değişir. Bu olay, bir kalemi su dolu bir bardağa koyduğunuzda kalemin kırık görünmesine benzer.
+
+Gökkuşağında ise bu süreç biraz daha karmaşıktır. Yağmur damlaları, küçük birer prizma görevi görür. Güneş ışığı bu damlalara girdiğinde önce kırılır, sonra damlanın iç yüzeyinden yansır ve tekrar kırılarak dışarı çıkar. İşte bu sırada beyaz ışık, tıpkı bir prizmada olduğu gibi farklı renklere ayrışır.
+
+### Beyaz Işığın Renklere Ayrılması
+
+Güneş ışığı aslında birçok rengin birleşimidir. Newton, prizma deneyleriyle beyaz ışığın aslında kırmızı, turuncu, sarı, yeşil, mavi, lacivert ve mor gibi renklerden oluştuğunu keşfetmiştir. Gökkuşağındaki renkler de bu şekilde ortaya çıkar.
+
+Yağmur damlasına giren ışık, kırılma açısına bağlı olarak farklı renklere ayrılır. Her renk, farklı bir dalga boyuna sahip olduğu için farklı miktarda kırılır. Örneğin, kırmızı ışık en az kırılırken, mor ışık en fazla kırılır. Bu nedenle gökkuşağında renkler belirli bir sırayla dizilir.
+
+### Gökkuşağı Neden Yuvarlaktır?
+
+Gökkuşağını oluşturan yağmur damlaları aslında küresel şekildedir. Işık, bu damlalardan belirli bir açıyla (yaklaşık 42 derece) kırıldığı için gökkuşağı da dairesel bir form alır. Ancak biz genellikle yerde durduğumuz için gökkuşağının sadece yarım daire şeklini görürüz. Uçakta veya yüksek bir tepedeyken tam bir çember halinde gökkuşağı görmek mümkündür.
+
+### Merak Uyandıran Bir Gerçek: Çift Gökkuşağı
+
+Bazen gökyüzünde iki tane gökkuşağı görürüz. İkincisi, birincisine göre daha soluk ve renkleri terstir. Bunun nedeni, ışığın yağmur damlası içinde iki kez yansımasıdır. Bu nadir görüntü, doğanın ne kadar şaşırtıcı olabileceğinin bir kanıtıdır.
+
+### Sonuç
+
+Gökkuşağı, ışığın fizik kurallarına uyarak bize sunduğu bir armağandır. Onu özel kılan, sadece renkleri değil, aynı zamanda arkasındaki bilimdir. Bir sonraki gökkuşağını gördüğünüzde, gökyüzünde dans eden bu renklerin aslında ışığın su damlalarıyla dansı olduğunu hatırlayın!
+
+Doğa, bize her gün böyle mucizeler sunar. Sadece biraz meraklı gözlerle bakmak yeterli...
+
+### Kaynaklar
+
+1)  NASA - What Causes a Rainbow? https://spaceplace.nasa.gov/rainbow/en/
+
+2)  Scientific American - The Science of Rainbows https://www.scientificamerican.com/article/the-science-of-rainbows/
+
+3)  Physics Classroom - Refraction and the Rainbow https://www.physicsclassroom.com/class/refrn/Lesson-4/The-Rainbow

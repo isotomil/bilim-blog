@@ -1,0 +1,80 @@
+---
+title: "Hayatımızda Bilim"
+format: html
+---
+
+## Hoş Geldiniz!
+Bilimin günlük yaşamımızdaki etkilerini keşfeden bir blog.
+
+### Yazılarımız
+
+```{=html}
+<style>
+  .article-list {
+    list-style-type: none;
+    padding: 0;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .article-item {
+    margin-bottom: 25px;
+    border-left: 4px solid #2B65EC;
+    padding-left: 15px;
+    transition: all 0.3s ease;
+  }
+  .article-item:hover {
+    border-left-width: 8px;
+    transform: translateX(5px);
+  }
+  .article-link {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.1em;
+    display: block;
+  }
+  .article-link:hover {
+    color: #2B65EC;
+  }
+  .article-desc {
+    color: #666;
+    margin-top: 5px;
+    font-size: 0.9em;
+  }
+</style>
+
+<ul class="article-list">
+  <li class="article-item">
+    <a href="posts/gokkusagi.qmd" class="article-link">
+      <strong>🌈 Gökkuşağı Nasıl Oluşur?</strong>
+      <div class="article-desc">Işığın su damlalarındaki büyülü dansı</div>
+    </a>
+  </li>
+  
+  <li class="article-item">
+    <a href="posts/bakteri.qmd" class="article-link">
+      <strong>🔬 Bakterileri Nasıl Yendik?</strong>
+      <div class="article-desc">Mikroplarla savaşın tarihçesi</div>
+    </a>
+  </li>
+
+  <li class="article-item">
+    <a href="posts/ay.qmd" class="article-link">
+      <strong>🌙 Ay'ın Neden Hep Aynı Yüzünü Görürüz?</strong>
+      <div class="article-desc">Senkronize dönüşün sırrı</div>
+    </a>
+  </li>
+
+  <li class="article-item">
+    <a href="posts/internet.qmd" class="article-link">
+      <strong>🌐 İnternet Nasıl Çalışır?</strong>
+      <div class="article-desc">Dijital otoyolun anatomisi</div>
+    </a>
+  </li>
+
+  <li class="article-item">
+    <a href="posts/luca.qmd" class="article-link">
+      <strong>🧬 LUCA: Yaşamın Ortak Ataşı</strong>
+      <div class="article-desc">4 milyar yıllık genetik miras</div>
+    </a>
+  </li>
+</ul>
