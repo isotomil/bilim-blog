@@ -1,0 +1,42 @@
+---
+title: "Hakkında"
+format: html
+---
+
+<style>
+.about-container {
+  text-align: center;
+  max-width: 500px;
+  margin: 2em auto;
+  font-family: Arial, sans-serif;
+}
+.logo {
+  width: 150px;
+  margin: 0 auto 1.5em;
+  display: block;
+}
+.credit-name {
+  color: #2B65EC;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.credit-role {
+  color: #666;
+  margin-top: 0.3em;
+}
+</style>
+
+<div class="about-container">
+
+![Hayatımızda Bilim](logo.png){.logo}
+
+**İsmail Hakkı Moldibi**  
+*Kurucu & Yazar*
+
+**İsmail Hakkı Moldibi**  
+*Tasarımcı*
+
+**İsmail Hakkı Moldibi**  
+*Editör*
+
+</div>
